@@ -1,1 +1,3 @@
 # Airbnb_Price_Prediction_Project
+
+Airbnb Price Prediction is a machine learning project that aims to predict the rental price of property listings on Airbnb based on various features such as location, room type, availability, and number of reviews. The project involves performing exploratory data analysis (EDA), preprocessing the dataset, and training multiple regression algorithms like Linear Regression, Decision Tree, and Random Forest to build predictive models. The models are evaluated using metrics such as MAE, RMSE, and R² score, and the best-performing model is saved as a pickle file for future use or deployment.
